@@ -1,0 +1,618 @@
+canonical_identifier: bkk:krp/KR6v0501/v1
+canonical_location: https://kanripo.org/bkk/KR6v0501/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 洛陽伽藍記鉤沈
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/GA/GA001/GA001n0003.xml
+    old_id: GA001n0003
+  edition:
+    short: bkk
+editions:
+- short: 志彙
+  label: 志彙
+  source_xml_id: wit.orig
+- short: GA
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0501_000.yaml, hash: 'sha256:0bb29b12059bfc781a2e3c1844047d9f84a3845e918dcdf1b83ef3d24287f893'}
+  - {seq: 1, filename: KR6v0501_001.yaml, hash: 'sha256:175094b2aa8de28e47d1f9bc98cc646c628bbeca027232ff4fb6ba4cefd0bc93'}
+  - {seq: 2, filename: KR6v0501_002.yaml, hash: 'sha256:59fdeb5417533bd1f5bb72b9c0f4bfcd4137ac974c58d8c6de55b018f886ba72'}
+  - {seq: 3, filename: KR6v0501_003.yaml, hash: 'sha256:9275ab58475ac8233b100359c61a85fb65498b5e638030b868f4d7fcf8b75c1a'}
+  - {seq: 4, filename: KR6v0501_004.yaml, hash: 'sha256:575729e0794f2146e53de54e9748995a9165611723557727a53d02961a7ca39f'}
+  - {seq: 5, filename: KR6v0501_005.yaml, hash: 'sha256:ca535c6f03cbb962eeaecc315f0f84acd128a0b9b2b2b494324bb5884992449e'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0501_000.markers.yaml, hash: 'sha256:663f94b3d0942920458177c09ba6b032b68bae7ee2570e3cf30acc69cf38823f'}
+  - {seq: 1, role: markers, filename: assets/KR6v0501_001.markers.yaml, hash: 'sha256:bd0c3d88e6418cd80047d5330a0b8e58919f13b0d169da7855f59a67a499d47a'}
+  - {seq: 2, role: markers, filename: assets/KR6v0501_002.markers.yaml, hash: 'sha256:9a224cf876c98726b27c78000d789ed14fbe1e2f9cba9dd8557bb48c96aefbd8'}
+  - {seq: 3, role: markers, filename: assets/KR6v0501_003.markers.yaml, hash: 'sha256:f164c6966fdb65c52b0a04bd9db8cb4f1869bb2532c076514caccb47b689fb70'}
+  - {seq: 4, role: markers, filename: assets/KR6v0501_004.markers.yaml, hash: 'sha256:47a22af7b86b4cdbe090eabdefb0dbfe00ed4e96811e1ef1c6d3a32d4be1b7ac'}
+  - {seq: 5, role: markers, filename: assets/KR6v0501_005.markers.yaml, hash: 'sha256:4a01ddee50c9aa3a0e33f638f2f5cd0e7b99fe5db02fc8be594dc9be89a48e9f'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0501_GA_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 版本說明
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0501_GA_000-mulu-2
+    span:
+    - front
+    - 557
+    - 557
+  label: 總圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0501_GA_000-mulu-3
+    span:
+    - front
+    - 564
+    - 564
+  label: 鉤沈序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0501_GA_001-juan-start
+    span:
+    - body
+    - 0
+    - 9283
+  label: 洛陽伽藍記鉤沈卷一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0501_GA_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 原序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0501_GA_001-mulu-2
+    span:
+    - body
+    - 1170
+    - 1170
+  label: 城內
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0501_GA_001-mulu-3
+    span:
+    - body
+    - 1172
+    - 1172
+  label: 永甯寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0501_GA_001-mulu-4
+    span:
+    - body
+    - 5705
+    - 5705
+  label: 建中寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0501_GA_001-mulu-5
+    span:
+    - body
+    - 6243
+    - 6243
+  label: 長秋寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0501_GA_001-mulu-6
+    span:
+    - body
+    - 6423
+    - 6423
+  label: 瑤光寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0501_GA_001-mulu-7
+    span:
+    - body
+    - 7114
+    - 7114
+  label: 景樂寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0501_GA_001-mulu-8
+    span:
+    - body
+    - 7497
+    - 7497
+  label: 昭儀尼寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0501_GA_001-mulu-9
+    span:
+    - body
+    - 8050
+    - 8050
+  label: 胡統寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0501_GA_001-mulu-10
+    span:
+    - body
+    - 8132
+    - 8132
+  label: 修梵寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0501_GA_001-mulu-11
+    span:
+    - body
+    - 8442
+    - 8442
+  label: 景林寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0501_GA_002-juan-start
+    span:
+    - body
+    - 0
+    - 7879
+  label: 洛陽伽藍記鉤沈卷二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0501_GA_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 城東
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0501_GA_002-mulu-2
+    span:
+    - body
+    - 2
+    - 2
+  label: 明縣尼寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0501_GA_002-mulu-3
+    span:
+    - body
+    - 279
+    - 279
+  label: 龍華寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0501_GA_002-mulu-4
+    span:
+    - body
+    - 710
+    - 710
+  label: 瓔珞寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0501_GA_002-mulu-5
+    span:
+    - body
+    - 801
+    - 801
+  label: 宗聖寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0501_GA_002-mulu-6
+    span:
+    - body
+    - 864
+    - 864
+  label: 崇真寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0501_GA_002-mulu-7
+    span:
+    - body
+    - 1459
+    - 1459
+  label: 魏昌尼寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0501_GA_002-mulu-8
+    span:
+    - body
+    - 1532
+    - 1532
+  label: 景興尼寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0501_GA_002-mulu-9
+    span:
+    - body
+    - 2401
+    - 2401
+  label: 莊嚴寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0501_GA_002-mulu-10
+    span:
+    - body
+    - 2528
+    - 2528
+  label: 秦太上君寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0501_GA_002-mulu-11
+    span:
+    - body
+    - 3374
+    - 3374
+  label: 正始寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0501_GA_002-mulu-12
+    span:
+    - body
+    - 4402
+    - 4402
+  label: 平等寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0501_GA_002-mulu-13
+    span:
+    - body
+    - 6147
+    - 6147
+  label: 景甯寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0501_GA_003-juan-start
+    span:
+    - body
+    - 0
+    - 4864
+  label: 洛陽伽藍記鉤沈卷三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0501_GA_003-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 城南
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0501_GA_003-mulu-2
+    span:
+    - body
+    - 2
+    - 2
+  label: 景明寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0501_GA_003-mulu-3
+    span:
+    - body
+    - 807
+    - 807
+  label: 大統寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0501_GA_003-mulu-4
+    span:
+    - body
+    - 938
+    - 938
+  label: 雙女寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0501_GA_003-mulu-5
+    span:
+    - body
+    - 1415
+    - 1415
+  label: 報德寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0501_GA_003-mulu-6
+    span:
+    - body
+    - 1699
+    - 1699
+  label: 正覺寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0501_GA_003-mulu-7
+    span:
+    - body
+    - 2449
+    - 2449
+  label: 龍華寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0501_GA_003-mulu-8
+    span:
+    - body
+    - 3648
+    - 3648
+  label: 菩提寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0501_GA_003-mulu-9
+    span:
+    - body
+    - 4112
+    - 4112
+  label: 高陽王寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0501_GA_003-mulu-10
+    span:
+    - body
+    - 4787
+    - 4787
+  label: 崇虛寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0501_GA_004-juan-start
+    span:
+    - body
+    - 0
+    - 6508
+  label: 洛陽伽藍記鉤沈卷四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0501_GA_004-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 城西
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0501_GA_004-mulu-2
+    span:
+    - body
+    - 2
+    - 2
+  label: 沖覺寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0501_GA_004-mulu-3
+    span:
+    - body
+    - 469
+    - 469
+  label: 宣忠寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0501_GA_004-mulu-4
+    span:
+    - body
+    - 1164
+    - 1164
+  label: 宣忠寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0501_GA_004-mulu-5
+    span:
+    - body
+    - 1252
+    - 1252
+  label: 白馬寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0501_GA_004-mulu-6
+    span:
+    - body
+    - 1648
+    - 1648
+  label: 光寶寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0501_GA_004-mulu-7
+    span:
+    - body
+    - 1927
+    - 1927
+  label: 法雲寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0501_GA_004-mulu-8
+    span:
+    - body
+    - 3341
+    - 3341
+  label: 開善寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0501_GA_004-mulu-9
+    span:
+    - body
+    - 4562
+    - 4562
+  label: 追光寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0501_GA_004-mulu-10
+    span:
+    - body
+    - 5268
+    - 5268
+  label: 融覺寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0501_GA_004-mulu-11
+    span:
+    - body
+    - 5443
+    - 5443
+  label: 大覺寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0501_GA_004-mulu-12
+    span:
+    - body
+    - 5583
+    - 5583
+  label: 永明寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0501_GA_005-juan-start
+    span:
+    - body
+    - 0
+    - 5310
+  label: 洛陽伽藍記鉤沈卷五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0501_GA_005-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 城北
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0501_GA_005-mulu-2
+    span:
+    - body
+    - 2
+    - 2
+  label: 禪虛寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0501_GA_005-mulu-3
+    span:
+    - body
+    - 110
+    - 110
+  label: 凝玄寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0501_GA_005-mulu-4
+    span:
+    - body
+    - 5136
+    - 5136
+  label: 結語
+  type: mulu
+  level: 1
+hash: sha256:ccc6370142f3c0174086393e1f6e7215ff9d5059e6b6e1a802df0950a11d2646
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
