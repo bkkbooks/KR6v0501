@@ -18,14 +18,14 @@ editions:
 - short: GA
 assets:
   parts:
-  - {seq: 0, filename: KR6v0501_000.yaml, hash: 'sha256:87b8f54de27375086d97619b6d630048e0dc987505df747281911ac40926d726'}
+  - {seq: 0, filename: KR6v0501_000.yaml, hash: 'sha256:a7842b2a0c88d7ea3ca03c18a3080f1be807b1be3db698e3584402b1f71ce477'}
   - {seq: 1, filename: KR6v0501_001.yaml, hash: 'sha256:3b8de012c4f617e8a81ae12957c30b8ae94ec871d99e39c1a82436e38e53e816'}
   - {seq: 2, filename: KR6v0501_002.yaml, hash: 'sha256:b1377ab3480bbfac22f23c62d6fa8114d76c09646d92fac07b1fe9e64a33ab72'}
   - {seq: 3, filename: KR6v0501_003.yaml, hash: 'sha256:84d52147dbb69e9d139c85ace67aefeafc6af2a3dfc418053e8d8da14ca0d6e5'}
   - {seq: 4, filename: KR6v0501_004.yaml, hash: 'sha256:b0fa1e1062ecbcfc4b6e67ed1906a1f94a51d6764c1c8c70ca5f2ee0cdac54b5'}
   - {seq: 5, filename: KR6v0501_005.yaml, hash: 'sha256:0fd0ff240f80245078e0fa4c3b703b368554f3089fad8bc571b9359857aea89f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0501_000.markers.yaml, hash: 'sha256:3f5c1461d8a29e52b0d8413e1fa6b5468a4f46d77fff66fc854b317eae8b3761'}
+  - {seq: 0, role: markers, filename: assets/KR6v0501_000.markers.yaml, hash: 'sha256:4ff0ee6e0f785686b59fc1414005a344a10c9079cee7b1de88b919a11d7ad5e2'}
   - {seq: 1, role: markers, filename: assets/KR6v0501_001.markers.yaml, hash: 'sha256:6104111c2504e8b1e86d334960fdb1d2f7c6a68f3babcc1508ba272fc12b519b'}
   - {seq: 2, role: markers, filename: assets/KR6v0501_002.markers.yaml, hash: 'sha256:3c974f98b22a89896a6b36faffbf9c4855eae69599732636f7391b0154f2d540'}
   - {seq: 3, role: markers, filename: assets/KR6v0501_003.markers.yaml, hash: 'sha256:96f551115863f2bed2de0b98cefefbbc93f2f1f43cefd2f667b84f5271d0a931'}
@@ -36,7 +36,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0501_GA_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 版本說明
@@ -46,7 +46,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0501_GA_000-mulu-2
     span:
-    - front
+    - body
     - 557
     - 557
   label: 總圖
@@ -56,7 +56,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0501_GA_000-mulu-3
     span:
-    - front
+    - body
     - 564
     - 564
   label: 鉤沈序
@@ -612,7 +612,7 @@ table_of_contents:
   label: 結語
   type: mulu
   level: 1
-hash: sha256:fab334743ebbae9d303c3f3178fe3902ba41bb9b69d52cabb0b2df2f6ab3dc93
+hash: sha256:c8999ae0fc13b6665879de5bc02e193d2ba62336f61c0945b2d90551734f40d7
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
